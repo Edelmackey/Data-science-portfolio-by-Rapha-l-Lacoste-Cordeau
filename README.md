@@ -12,6 +12,7 @@ These are school projects to which I contributed
 
 #### Financial technologies for engineers
 1. [Fintech 1](Projects/Fintech_1.ipynb) is ...
+2. [Fintech 2](Projects/Fintech_2.ipynb) is ...
 ***
 
 ## Personal projects
