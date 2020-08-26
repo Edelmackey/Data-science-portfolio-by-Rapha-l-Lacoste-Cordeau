@@ -6,7 +6,7 @@ This portfolio is a compilation of notebooks I created for data analysis or for 
 These are school projects to which I contributed
 ***
 
-### Financial analysis
+#### Financial analysis
 1. [Analyse financiere industrielle TP1](Projects/Analyse_financiere_industrielle_1.pdf) is a report about the financial analysis and comparison of 3 tickers : L.TO, MRU.TO and EMP-A.TO. 
 
 ## Personal projects
