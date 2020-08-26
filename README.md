@@ -3,6 +3,8 @@ This portfolio is a compilation of notebooks I created for data analysis or for 
 ***
 
 ## School projects
+---
+
 ### Financial analysis
 
 ## Personal projects
