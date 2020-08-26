@@ -7,7 +7,7 @@ These are school projects to which I contributed
 ***
 
 ### Financial analysis
-1. [Analyse financiere industrielle TP1](projects/Analyse financiere industrielle TP1.pdf) is a financial analysis and comparison between 3 tickers : L.TO, MRU.TO and EMP-A.TO. 
+1. [Analyse financiere industrielle TP1](Projects/Analyse financiere industrielle TP1.pdf) is a financial analysis and comparison between 3 tickers : L.TO, MRU.TO and EMP-A.TO. 
 ## Personal projects
 
 ## Work projects
