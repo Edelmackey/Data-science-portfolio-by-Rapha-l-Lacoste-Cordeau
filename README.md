@@ -12,7 +12,7 @@ These are school projects to which I contributed
 3. [Analyse financiere industrielle 3](Projects/Analyse_financiere_industrielle_3.pdf) is ...
 
 #### Financial technologies for engineers
-
+1. [Fintech 1](Projects/Fintech_1.ipynb) is ...
 
 ## Personal projects
 
