@@ -11,6 +11,9 @@ These are school projects to which I contributed
 2. [Analyse financiere industrielle 2](Projects/Analyse_financiere_industrielle_2.pdf) is ...
 3. [Analyse financiere industrielle 3](Projects/Analyse_financiere_industrielle_3.pdf) is ...
 
+#### Financial technologies for engineers
+
+
 ## Personal projects
 
 ## Work projects
