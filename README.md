@@ -17,7 +17,7 @@ The purpose of this report is to decide if Amazon's stock price if overvalued.
 3. [Analyse financiere industrielle 3](Projects/Analyse_financiere_industrielle_3.pdf) uses multiple methods and tools to evaluate Molson's financial situation.  
 This report is a sectoral analysis of the company, most of the plots and data used in it we're acquired via a Bloomberg terminal.
 
-[dsasd](Projects/Devoir1.Rmd)
+[dsasd](Projects/Devoir1.log)
 ## Personal projects
 
 ## Work projects
