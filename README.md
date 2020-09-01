@@ -13,8 +13,7 @@ This portfolio is a compilation of notebooks and reports I created alone, or wit
 It's purpose is to use simple analysis tools such as: financial ratios, data visualisation, optimistic and pessimistic projections over time.
 2. [Analyse financiere industrielle 2](Projects/Analyse_financiere_industrielle_2.pdf) uses 3 methods to calculate the stock price of Amazon.  
 The purpose of this report is to decide if Amazon's stock price if overvalued.
-3. [Analyse financiere industrielle 3](Projects/Analyse_financiere_industrielle_3.pdf) uses multiple methods and tools to evaluate Molson's financial situation.  
-This report is a sectoral analysis of the company, most of the plots and data used in it we're acquired via a Bloomberg terminal.
+3. [Analyse financiere industrielle 3](Projects/Analyse_financiere_industrielle_3.pdf) uses multiple methods and tools to evaluate Molson's financial situation. This report is a sectoral analysis of the company, most of the plots and data used in it we're acquired via a Bloomberg terminal.
 
 #### Statistical Learning methods
 4. [Statistical Learning Methods 1](Projects/Statistical_Learning_Methods_1.pdf) uses advanced statistical concepts with linear regression in order to optimize and analyze the results it provides.
