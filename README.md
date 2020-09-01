@@ -15,6 +15,8 @@ It's purpose is to use simple analysis tools such as: financial ratios, data vis
 The purpose of this report is to decide if Amazon's stock price if overvalued.
 3. [Analyse financiere industrielle 3](Projects/Analyse_financiere_industrielle_3.pdf) uses multiple methods and tools to evaluate Molson's financial situation.  
 This report is a sectoral analysis of the company, most of the plots and data used in it we're acquired via a Bloomberg terminal.
+
+#### Statistical Learning methods
 4. [Statistical Learning Methods 1](Projects/Statistical_Learning_Methods_1.pdf) uses advanced statistical concepts with linear regression in order to optimize and analyze the results it provides.
 5. [Statistical Learning Methods 1](Projects/Statistical_Learning_Methods_2.pdf) uses multiple linear regression, Ridge and Lasso regression, principal component analysis and partial least square. All theses statistical methods are put together and compared with their prediction's MSE.
 
