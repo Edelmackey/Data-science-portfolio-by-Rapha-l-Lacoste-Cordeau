@@ -17,7 +17,7 @@ The purpose of this report is to decide if Amazon's stock price if overvalued.
 
 #### Statistical Learning methods
 4. [Statistical Learning Methods 1](Projects/Statistical_Learning_Methods_1.pdf) uses advanced statistical concepts with linear regression in order to optimize and analyze the results it provides.
-5. [Statistical Learning Methods 1](Projects/Statistical_Learning_Methods_2.pdf) uses multiple linear regression, Ridge and Lasso regression, principal component analysis and partial least square. All theses statistical methods are put together and compared with their prediction's MSE.
+5. [Statistical Learning Methods 2](Projects/Statistical_Learning_Methods_2.pdf) uses multiple linear regression, Ridge and Lasso regression, principal component analysis and partial least square. All theses statistical methods are put together and compared with their prediction's MSE.
 
 ## Personal projects
 
